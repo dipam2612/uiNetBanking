@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="dipam">
+	<test name="programss">
+		<classes>
+			<class name="com.iNetBanking.TestCases.TC_loginPage_001" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="dipam" duration-ms="32665" started-at="2022-06-27T15:46:26Z" finished-at="2022-06-27T15:46:59Z">
+    <groups>
+    </groups>
+    <test name="programss" duration-ms="32665" started-at="2022-06-27T15:46:26Z" finished-at="2022-06-27T15:46:59Z">
+      <class name="com.iNetBanking.TestCases.TC_loginPage_001">
+        <test-method status="PASS" signature="openBrower()[pri:0, instance:com.iNetBanking.TestCases.TC_loginPage_001@74f0ea28]" name="openBrower" is-config="true" duration-ms="23717" started-at="2022-06-27T21:16:26Z" finished-at="2022-06-27T21:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrower -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.iNetBanking.TestCases.TC_loginPage_001@74f0ea28]" name="login" duration-ms="3125" started-at="2022-06-27T21:16:50Z" finished-at="2022-06-27T21:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.iNetBanking.TestCases.TC_loginPage_001@74f0ea28]" name="logout" is-config="true" duration-ms="5810" started-at="2022-06-27T21:16:53Z" finished-at="2022-06-27T21:16:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.iNetBanking.TestCases.TC_loginPage_001 -->
+    </test> <!-- programss -->
+  </suite> <!-- dipam -->
+</testng-results>
